@@ -26,8 +26,8 @@ export default async function BlogPage() {
       <main className="max-w-4xl mx-auto px-6 py-16">
         {/* Header */}
         <div className="text-center mb-14">
-          <p className="text-xs tracking-[0.2em] uppercase text-pink-400 mb-3">Stories &amp; thoughts</p>
-          <h1 className="font-serif text-4xl md:text-5xl text-[#4a2d35] mb-4">The Blog</h1>
+          <p className="text-xs tracking-[0.2em] uppercase text-pink-400 mb-3">Notes &amp; Thoughts</p>
+          <h1 className="font-serif text-4xl md:text-5xl text-[#4a2d35] mb-4">Your Blog</h1>
           <p className="text-[#9e7580] text-sm max-w-md mx-auto leading-relaxed">
             Musings, guides, and gentle notes — freely available for all to read.
           </p>
