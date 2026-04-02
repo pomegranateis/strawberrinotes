@@ -1,4 +1,4 @@
-# 🍓 Strawberries & Notes
+# Strawberries & Notes
 
 A soft, aesthetic note-taking and productivity app inspired by Notion — wrapped in the prettiest pink palette you've ever seen.
 
@@ -10,17 +10,17 @@ A soft, aesthetic note-taking and productivity app inspired by Notion — wrappe
 
 | Feature | Details |
 |---|---|
-| 📝 Rich note editor | Tiptap with headings, bold, italic, underline, lists, code blocks, task lists, images, links |
-| 🔗 Public sharing | Toggle any note public → shareable link, no login required to view |
-| ✅ To-do list | Priority levels, due dates, categories, progress bar |
-| 📅 Timetable | Weekly grid, add/remove classes with colours and rooms |
-| 🔐 Auth | Clerk — supports email, Google, GitHub |
-| 💾 Auto-save | Saves 1.5s after you stop typing |
-| 🌸 Aesthetic | Baby pink, cream, lace — cottagecore meets productivity |
+| Rich note editor | Tiptap with headings, bold, italic, underline, lists, code blocks, task lists, images, links |
+| Public sharing | Toggle any note public → shareable link, no login required to view |
+| To-do list | Priority levels, due dates, categories, progress bar |
+| Timetable | Weekly grid, add/remove classes with colours and rooms |
+| Auth | Clerk — supports email, Google, GitHub |
+| Auto-save | Saves 1.5s after you stop typing |
+| Aesthetic | Baby pink, cream, lace — cottagecore meets productivity |
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Clone and install
 
@@ -74,7 +74,7 @@ Open [http://localhost:3000](http://localhost:3000) ✦
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 strawberries-and-notes/
@@ -123,7 +123,7 @@ strawberries-and-notes/
 
 ---
 
-## 🌸 Routes
+## Routes
 
 | Route | Description | Auth required |
 |---|---|---|
@@ -138,7 +138,7 @@ strawberries-and-notes/
 
 ---
 
-## 🚀 Deploy to Vercel
+## Deploy to Vercel
 
 ```bash
 npm install -g vercel
@@ -151,7 +151,7 @@ Update `NEXT_PUBLIC_APP_URL` to your production URL.
 
 ---
 
-## 🎨 Design Reference
+## Design Reference
 
 The aesthetic is inspired by:
 - Soft pink leopard print textures
@@ -165,5 +165,4 @@ Fonts: **Playfair Display** (serif headings) + **DM Sans** (body)
 
 ---
 
-Made with 🍓 and softness ✦
 # strawberries-notes
