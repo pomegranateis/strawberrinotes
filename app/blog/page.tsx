@@ -27,7 +27,7 @@ export default async function BlogPage() {
         {/* Header */}
         <div className="text-center mb-14">
           <p className="text-xs tracking-[0.2em] uppercase text-pink-400 mb-3">Stories &amp; thoughts</p>
-          <h1 className="font-serif text-4xl md:text-5xl text-[#4a2d35] mb-4">The Blog 🍓</h1>
+          <h1 className="font-serif text-4xl md:text-5xl text-[#4a2d35] mb-4">The Blog</h1>
           <p className="text-[#9e7580] text-sm max-w-md mx-auto leading-relaxed">
             Musings, guides, and gentle notes — freely available for all to read.
           </p>
